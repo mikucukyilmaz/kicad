@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP QT24A01
+D 10/100/1000Base-T Single Port Transformer Module
+F https://datasheet.lcsc.com/szlcsc/TNK-QT24A01_C216359.pdf
+$ENDCMP
+#
+#End Doc Library
