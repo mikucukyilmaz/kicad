@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP I6A24014A033V-001-R
+D TDK-LAMBDA - I6A24014A033V-001-R - DC-DC CONVERTER, 1 O/P, 3.3-24V, 14A
+F http://www.mouser.com/datasheet/2/400/i6a-769886.pdf
+$ENDCMP
+#
+$CMP OKR-T_6-W12-C
+D Adjustable Output 6-Amp SIP-mount DC/DC Converters
+F http://power.murata.com/data/power/okr-t6-w12.pdf
+$ENDCMP
+#
+#End Doc Library
