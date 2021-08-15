@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 0826-1X1T-GH-F
+D RJ45 Magjack  1000BASE-T PoE+ Bel Magnetics
+$ENDCMP
+#
 $CMP SFP_CAGE
 D SFP Cage
 $ENDCMP
