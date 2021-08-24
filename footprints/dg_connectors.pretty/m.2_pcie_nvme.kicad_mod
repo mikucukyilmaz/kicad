@@ -1,4 +1,4 @@
-(module m.2_pcie_nvme (layer F.Cu) (tedit 610D14E1)
+(module m.2_pcie_nvme (layer F.Cu) (tedit 61255A46)
   (attr smd)
   (fp_text reference U10 (at 0 1 180) (layer F.Fab)
     (effects (font (size 0.6 0.6) (thickness 0.1)))
@@ -113,8 +113,8 @@
     (rotate (xyz -90 0 90))
   )
   (model ${DGLIB}/3d/M2_2280_SSD.STEP
-    (offset (xyz 0 -38 2.5))
+    (offset (xyz 0 -38 3.3))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 90))
+    (rotate (xyz -90 0 0))
   )
 )
